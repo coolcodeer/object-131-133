@@ -1,0 +1,32 @@
+body{
+    background-size: cover;
+    background-position: center;
+}
+h1{
+    font-size: 30px !important;
+    margin-top: 5px;
+}
+
+.heading
+{
+font-size: 33px;
+width: 100%;
+margin: 0px;
+}
+
+#status
+{
+font-size: 20px;
+margin-top: 2px;
+}
+body{
+    background-size: cover;
+    background-position: center;
+
+}
+canvas{
+    border-width: 10px;
+    border-style: solid;
+    border-color: rgb(227, 72, 72);
+    border-radius: 20px;
+}
